@@ -19,7 +19,7 @@ I currently work as an **Import Specialist** at Niroo Motor Co. and continue to 
 ### 🛠️ Tech Stack
 
 - HTML5 / CSS3 / Bootstrap  
-- JavaScript (In Progress)  
+- JavaScript 
 - Responsive Design  
 - Git & GitHub  
 - Linux basics  
