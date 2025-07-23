@@ -1,49 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mahdi Fakhar</h1>
+👋 Hi, I’m Mahdi Fakhar
 
-<h3 align="center">💻 Front-end Developer | 📦 Commerce Specialist | 🇮🇷 Based in Tehran, Iran</h3>
+💻 Front-end Developer  |  📦 Commerce Specialist  |  🇮🇷 Based in Tehran, Iran
 
----
+⸻
 
-### 🚀 About Me
+🚀 About Me
 
-I'm a passionate **Front-end Developer** from Tehran, focused on building clean, responsive, and user-friendly web interfaces.
+I’m a passionate Front-end Developer based in Tehran, dedicated to crafting clean, responsive, and user-centric web interfaces. With a background in international commerce and a deep interest in technology, I strive to bridge the gap between technical development and real-world business needs.
 
-I currently work as an **Import Specialist** at Niroo Motor Co. and continue to enhance my technical skills through real-world projects and hands-on practice.
+🔹 Current Role: Import Specialist at Niroo Motor Co.
+🔹 Freelancing: Actively working on freelance web projects and building my personal portfolio
+🔹 Contact: mahdi.fakhar7@gmail.com
+🔹 LinkedIn: linkedin.com/in/mahdi-fakhar
 
-- 💼 Working on freelance projects and personal portfolio  
-- 📫 Reach me: mahdi.fakhar7@gmail.com  
-- 🌐 LinkedIn: [mahdi-fakhar](https://www.linkedin.com/in/mahdi-fakhar)
+⸻
 
----
+🛠️ Tech Stack
+ • HTML5 / CSS3 / Bootstrap
+ • JavaScript (Vanilla)
+ • Responsive Web Design
+ • Git & GitHub
+ • Linux (Basic Usage)
+ • C++ (Beginner Level)
 
-### 🛠️ Tech Stack
+⸻
 
-- HTML5 / CSS3 / Bootstrap  
-- JavaScript 
-- Responsive Design  
-- Git & GitHub  
-- Linux basics  
-- C++ (Beginner)
+📁 Projects (Coming Soon)
+ • 🌐 Personal Portfolio Website
+ • 📱 Product Landing Page
+ • ✈️ Travel Blog Template
 
----
+Stay tuned — I’m actively building and deploying projects to showcase both my front-end skills and my creative approach to UI/UX.
 
-### 📂 Projects Coming Soon
 
-- 🌐 Personal Portfolio Website  
-- 📱 Product Landing Page  
-- ✈️ Travel Blog Template
 
----
+سلام! 👋 من مهدی فخار هستم، برنامه‌نویس فرانت‌اند از تهران.
 
-### 🔥 معرفی (فارسی)
+به طراحی و توسعه رابط‌های کاربری سریع، تمیز و واکنش‌گرا علاقه‌مندم. در حال حاضر به‌عنوان متخصص بازرگانی خارجی در شرکت نیرو موتور فعالیت می‌کنم و در کنار شغلم، به‌صورت حرفه‌ای وارد دنیای برنامه‌نویسی وب شده‌ام.
 
-سلام! 👋 من **مهدی فخار** هستم، برنامه‌نویس فرانت‌اند از تهران.
-
-به ساختن وب‌سایت‌های تمیز، سریع و واکنش‌گرا علاقه‌مندم 
-
-در حال حاضر در شرکت نیرو موتور به‌عنوان متخصص بازرگانی مشغول به کارم و در کنار اون، پروژه‌های فریلنسری هم انجام می‌دم یا برای نمونه‌کار توسعه می‌دم.
-
-هدفم ورود جدی به دنیای برنامه‌نویسی حرفه‌ای و استفاده از مهارت‌های بازرگانی در کنار دانش فنی برای ساخت راه‌حل‌های واقعی و کاربردی هست.
-
----
-
+در حال کار روی پروژه‌های فریلنسری و ساخت نمونه‌کار برای حضور قوی‌تر در بازار کار برنامه‌نویسی هستم. هدف من ترکیب مهارت‌های فنی با دانش بازرگانی برای خلق راه‌حل‌های کاربردی و واقعی در دنیای دیجیتال است.
