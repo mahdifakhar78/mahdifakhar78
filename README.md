@@ -1,6 +1,6 @@
 👋 Hi, I’m Mahdi Fakhar
 
-💻 Front-end Developer  |  📦 Commerce Specialist  |  🇮🇷 Based in Tehran, Iran
+💻 Front-end Developer  |  📦 Commerce Specialist  |Based in Tehran, Iran
 
 ⸻
 
