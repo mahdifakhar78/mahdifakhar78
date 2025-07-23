@@ -11,7 +11,6 @@ I'm a passionate **Front-end Developer** from Tehran, focused on building clean,
 I currently work as an **Import Specialist** at Niroo Motor Co. and continue to enhance my technical skills through real-world projects and hands-on practice.
 
 - 💼 Working on freelance projects and personal portfolio  
-- 🌱 Currently learning **JavaScript** and **React**  
 - 📫 Reach me: mahdi.fakhar7@gmail.com  
 - 🌐 LinkedIn: [mahdi-fakhar](https://www.linkedin.com/in/mahdi-fakhar)
 
