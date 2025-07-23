@@ -1,6 +1,6 @@
 👋 Hi, I’m Mahdi Fakhar
 
-💻 Front-end Developer  |  📦 Commerce Specialist  |Based in Tehran, Iran
+💻 Front-end Developer  |  📦 Commerce Specialist  |  🇮🇷 Based in Tehran, Iran
 
 ⸻
 
@@ -32,7 +32,7 @@ I’m a passionate Front-end Developer based in Tehran, dedicated to crafting cl
 
 Stay tuned — I’m actively building and deploying projects to showcase both my front-end skills and my creative approach to UI/UX.
 
-
+🔥 معرفی (فارسی)
 
 سلام! 👋 من مهدی فخار هستم، برنامه‌نویس فرانت‌اند از تهران.
 
