@@ -1,18 +1,18 @@
-<p align="center">
+<p align="left">
   <strong>👋 Hi, I’m Mahdi Fakhar</strong><br/>
   💻 Front-end Developer &nbsp;|&nbsp; 📦 Commerce Specialist &nbsp;|&nbsp; 🇮🇷 Based in Tehran, Iran
 </p>
 
 <hr/>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
-<p align="center">
+<p align="left">
 I’m a passionate Front-end Developer based in Tehran, dedicated to crafting clean, responsive, and user-centric web interfaces.<br/>
 With a background in international commerce and a deep interest in technology, I strive to bridge the gap between technical development and real-world business needs.
 </p>
 
-<p align="center">
+<p align="left">
 🔹 <strong>Current Role:</strong> Import Specialist at Niroo Motor Co.<br/>
 🔹 <strong>Freelancing:</strong> Actively working on freelance web projects and building my personal portfolio<br/>
 🔹 <strong>Contact:</strong> mahdi.fakhar7@gmail.com<br/>
@@ -21,9 +21,9 @@ With a background in international commerce and a deep interest in technology, I
 
 <hr/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<p align="center">
+<p align="left">
 HTML5 / CSS3 / Bootstrap &nbsp;•&nbsp;
 JavaScript (Vanilla) &nbsp;•&nbsp;
 Responsive Web Design &nbsp;•&nbsp;
@@ -34,23 +34,23 @@ C++ (Beginner Level)
 
 <hr/>
 
-<h2 align="center">📁 Projects (Coming Soon)</h2>
+<h2 align="left">📁 Projects (Coming Soon)</h2>
 
-<p align="center">
+<p align="left">
 🌐 Personal Portfolio Website<br/>
 📱 Product Landing Page<br/>
 ✈️ Travel Blog Template
 </p>
 
-<p align="center"><em>
+<p align="left"><em>
 Stay tuned — I’m actively building and deploying projects to showcase both my front-end skills and my creative approach to UI/UX.
 </em></p>
 
 <hr/>
 
-<h2 align="center">🔥 معرفی (فارسی)</h2>
 
-<p align="center">
+
+<p align="right">
 سلام! 👋 من مهدی فخار هستم، برنامه‌نویس فرانت‌اند از تهران.<br/>
 به طراحی و توسعه رابط‌های کاربری سریع، تمیز و واکنش‌گرا علاقه‌مندم.<br/>
 در حال حاضر به‌عنوان متخصص بازرگانی خارجی در شرکت نیرو موتور فعالیت می‌کنم و در کنار شغلم، به‌صورت حرفه‌ای وارد دنیای برنامه‌نویسی وب شده‌ام.<br/>
