@@ -48,8 +48,8 @@ Stay tuned — more updates coming as I push new commits 💡
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-fakhar&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-fakhar&layout=compact&langs_count=6&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdifakhar78&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdifakhar78&layout=compact&langs_count=6&theme=default" height="150" />
 </p>
 
 ---
